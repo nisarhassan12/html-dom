@@ -47,6 +47,12 @@ $ npm run dev-server
 
 Open http://localhost:1234 in your browser to see it in action.
 
+## Online one-click setup for contributing
+
+Contribute to htmldom.dev using a fully featured online development environment that will automatically: clone the repo, install the dependencies and start the webserver.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer/)
+
 ## Contributing
 
 Pull requests are welcomed. If you see any problem with the example on your browser, please let me know by creating an issue or submit a pull request.
